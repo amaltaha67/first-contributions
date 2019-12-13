@@ -1,7 +1,7 @@
 ﻿# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
 -[Ahmed Zahran]
-- Amal Taha
+- [Amal Taha] (https://github.com/amaltaha67)
 - [Alejandro Garcia] (https://github.com/agc133)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
 - [Gina Kim] (https://github.com/GHK15)
